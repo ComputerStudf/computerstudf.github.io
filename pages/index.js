@@ -25,7 +25,7 @@ export default function Home() {
                     <span data-text="Computer Studf">Computer Studf</span>
                 </h1>
                 <p className={styles.description}>
-                    We don`&apos;`t have a description yet...
+                    We don&apos;t have a description yet...
                 </p>
             </main>
 
