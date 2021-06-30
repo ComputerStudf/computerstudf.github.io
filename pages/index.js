@@ -24,7 +24,9 @@ export default function Home() {
                     Welcome to{" "}
                     <span data-text="Computer Studf">Computer Studf</span>
                 </h1>
-                <p className={styles.description}>We don't have a description yet...</p>
+                <p className={styles.description}>
+                    We don`&apos;`t have a description yet...
+                </p>
             </main>
 
             <footer className={styles.footer}>
