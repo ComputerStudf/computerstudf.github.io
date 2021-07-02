@@ -1,0 +1,17 @@
+@use "../../styles/abstracts/colors";
+
+.link {
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    gap: 0.5em;
+    transition: color 200ms ease;
+
+    &:hover {
+        color: colors.$primary;
+    }
+
+    svg {
+        width: 1em;
+    }
+}
